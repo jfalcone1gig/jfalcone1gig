@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... pytorch
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ... i dont know
-- ⚡ Fun fact: ... i want a robot to cook my food and clean my house
+- ⚡ Fun fact: ... i want a robot that cooks my food and cleans my house
 
 <!---
 jfalcone1gig/jfalcone1gig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
