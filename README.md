@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jfalcone1gig
 - 👀 I’m interested in ... DSP, FPGA, embedded systems, programming and lasers
-- 🌱 I’m currently learning ... pytorch, rust
+- 🌱 I’m currently learning ... pytorch
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me ... i dont know
 - ⚡ Fun fact: ... i want a robot that cooks my food and cleans my house
